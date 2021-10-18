@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sprint-project-2/static/css/main.06a4adba.chunk.css",
-    "main.js": "/sprint-project-2/static/js/main.9db8675f.chunk.js",
-    "main.js.map": "/sprint-project-2/static/js/main.9db8675f.chunk.js.map",
-    "runtime-main.js": "/sprint-project-2/static/js/runtime-main.c27daa56.js",
-    "runtime-main.js.map": "/sprint-project-2/static/js/runtime-main.c27daa56.js.map",
-    "static/js/2.cd8972a5.chunk.js": "/sprint-project-2/static/js/2.cd8972a5.chunk.js",
-    "static/js/2.cd8972a5.chunk.js.map": "/sprint-project-2/static/js/2.cd8972a5.chunk.js.map",
-    "index.html": "/sprint-project-2/index.html",
-    "static/css/main.06a4adba.chunk.css.map": "/sprint-project-2/static/css/main.06a4adba.chunk.css.map",
-    "static/js/2.cd8972a5.chunk.js.LICENSE.txt": "/sprint-project-2/static/js/2.cd8972a5.chunk.js.LICENSE.txt"
+    "main.css": "/SprintProject-2-Acamica/static/css/main.06a4adba.chunk.css",
+    "main.js": "/SprintProject-2-Acamica/static/js/main.9db8675f.chunk.js",
+    "main.js.map": "/SprintProject-2-Acamica/static/js/main.9db8675f.chunk.js.map",
+    "runtime-main.js": "/SprintProject-2-Acamica/static/js/runtime-main.0dbf5118.js",
+    "runtime-main.js.map": "/SprintProject-2-Acamica/static/js/runtime-main.0dbf5118.js.map",
+    "static/js/2.cd8972a5.chunk.js": "/SprintProject-2-Acamica/static/js/2.cd8972a5.chunk.js",
+    "static/js/2.cd8972a5.chunk.js.map": "/SprintProject-2-Acamica/static/js/2.cd8972a5.chunk.js.map",
+    "index.html": "/SprintProject-2-Acamica/index.html",
+    "static/css/main.06a4adba.chunk.css.map": "/SprintProject-2-Acamica/static/css/main.06a4adba.chunk.css.map",
+    "static/js/2.cd8972a5.chunk.js.LICENSE.txt": "/SprintProject-2-Acamica/static/js/2.cd8972a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c27daa56.js",
+    "static/js/runtime-main.0dbf5118.js",
     "static/js/2.cd8972a5.chunk.js",
     "static/css/main.06a4adba.chunk.css",
     "static/js/main.9db8675f.chunk.js"
