@@ -1,0 +1,78 @@
+.hotel {
+    width: 400px;
+    border: 1px solid;
+    height: 750px;
+    margin: 10px 20px 10px 20px;
+    background: rgb(247,252,255);
+    background: linear-gradient(249deg, rgba(247,252,255,1) 0%, rgba(247,252,255,1) 100%);
+    border-color: white;
+    border-radius: 3px;
+
+}
+img {
+    border-radius: 3px;
+}
+h2 {
+    font-size: 28px;
+}
+.hotel h2 {
+    background-color: rgba(207,238,255,1);
+    padding: 6px;
+    border-radius: 3px;
+
+}
+h3 {
+    font-size: 24px;
+}
+p {
+    margin: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.titulo {
+    margin: 5px;
+}
+.descripcion{
+    height: 170px;
+}
+.disponible {
+    font-weight: bold;
+    font-size: 14px;
+    margin: 0 13px;
+}
+.burbuja{
+    display: flex;
+    flex-direction: row;
+}
+
+.burbuja div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.badge-color{
+    background-color: rgb(255, 249, 159);
+    color: black;
+    width: 100%;
+}
+.badge-color-prop{
+    color: black;
+}
+
+.hotel-button{
+    background-color: rgba(44,180,255,1);
+    border: none;
+    padding: 8px 132px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 3px;
+
+}
+.hotel-button:hover {
+    background-color: rgb(255, 249, 159);
+  }

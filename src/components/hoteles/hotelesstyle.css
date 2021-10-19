@@ -1,0 +1,7 @@
+.hoteles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgb(207,238,255);
+    background: linear-gradient(249deg, rgba(207,238,255,1) 0%, rgba(44,180,255,1) 100%);  
+}
